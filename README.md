@@ -1,5 +1,5 @@
 # ThatDataPurple.VS2019
-A purple theme for Visual Studio 2019 by That Data Person Limited.
+A purple theme for Visual Studio 2019 made with love by That Data Person Limited.
 
 ## Screenshot
 ![Screenshot of ThatDataPurple theme applied to Visual Studio 2019](https://github.com/thatdataperson/ThatDataPurple.VS2019/blob/main/images/ThatDataPurple.preview.png?raw=true)
