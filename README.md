@@ -7,6 +7,7 @@ A purple theme for Visual Studio 2019 made with love by That Data Person Limited
 ## Supported Versions
 - Visual Studio 2019
 - Visual Studio 2022 is supported in [ThatDataPurple.VS2022](https://github.com/thatdataperson/ThatDataPurple.VS2022)
+- Visual Studio Code is supported in [ThatDataPurple.VSCode](https://github.com/thatdataperson/ThatDataPurple.VSCode)
 
 ## Install
 - Download the version you need from the Visual Studio Marketplace
