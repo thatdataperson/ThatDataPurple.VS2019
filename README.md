@@ -13,7 +13,7 @@ The screenshot above shows the previous colours and will be replaced.
 
 ## Supported Versions
 - Visual Studio 2019
-- Visual Studio 2022 is supported in [ThatDataPurple.VS2022](https://github.com/thatdataperson/ThatDataPurple.VS2022)
+- Visual Studio 2022 and 2026 are supported in [ThatDataPurple.VS2022](https://github.com/thatdataperson/ThatDataPurple.VS2022)
 - Visual Studio Code is supported in [ThatDataPurple.VSCode](https://github.com/thatdataperson/ThatDataPurple.VSCode)
 
 ## Install

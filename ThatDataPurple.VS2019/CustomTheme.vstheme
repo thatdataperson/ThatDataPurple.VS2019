@@ -1,5 +1,5 @@
 ﻿<Themes>
-	<Theme Name="ThatDataPurple.VS2019" GUID="{1f5c6b97-c05f-4b46-8f93-6ba8ec00af8d}">
+	<Theme Name="ThatDataPurple.VS2019" GUID="{1f5c6b97-c05f-4b46-8f93-6ba8ec00af8d}" FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
 		<Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
 			<Color Name="Body">
 				<Background Type="CT_RAW" Source="FF120A33" />
@@ -41,7 +41,7 @@
 				<Foreground Type="CT_RAW" Source="FFC2B7F9" />
 			</Color>
 			<Color Name="ContentSectionHeaderBorder">
-				<Foreground Type="CT_RAW" Source="FFA091E6" />
+				<Foreground Type="CT_RAW" Source="FF2E2070" />
 			</Color>
 		</Category>
 		<Category Name="Autos" GUID="{a7ee6bee-d0aa-4b2f-ad9d-748276a725f6}">
@@ -735,7 +735,7 @@
 				<Foreground Type="CT_RAW" Source="FFFFFFFF" />
 			</Color>
 			<Color Name="TabHeader">
-				<Background Type="CT_RAW" Source="FF9F91F1" />
+				<Background Type="CT_RAW" Source="FF120A33" />
 			</Color>
 			<Color Name="TabText">
 				<Foreground Type="CT_RAW" Source="FFA298C8" />
@@ -1720,16 +1720,16 @@
 				<Background Type="CT_RAW" Source="FF4320CC" />
 			</Color>
 			<Color Name="StageInfoTabItemSelectedHeader">
-				<Background Type="CT_RAW" Source="FFFFFFFF" />
+				<Background Type="CT_RAW" Source="FF4320CC" />
 			</Color>
 			<Color Name="StageInfoTabItemHeader">
-				<Background Type="CT_RAW" Source="FFA095C6" />
+				<Background Type="CT_RAW" Source="FF271862" />
 			</Color>
 			<Color Name="JobGraphBottom">
 				<Background Type="CT_RAW" Source="FF271862" />
 			</Color>
 			<Color Name="JobViewHeaderBorder">
-				<Background Type="CT_RAW" Source="FFA199C8" />
+				<Background Type="CT_RAW" Source="FF2E2070" />
 			</Color>
 			<Color Name="JobViewHeader">
 				<Background Type="CT_RAW" Source="FFA18EED" />
@@ -1745,7 +1745,7 @@
 				<Foreground Type="CT_RAW" Source="FFFFFFFF" />
 			</Color>
 			<Color Name="JobViewDiagnoseHeaderBorder">
-				<Background Type="CT_RAW" Source="FFA18EED" />
+				<Background Type="CT_RAW" Source="FF2E2070" />
 			</Color>
 			<Color Name="StreamPreviewCompositeData">
 				<Foreground Type="CT_RAW" Source="FF774A1C" />
@@ -1883,13 +1883,13 @@
 				<Background Type="CT_RAW" Source="FF0D0629" />
 			</Color>
 			<Color Name="JobViewDiagnosticsTabHeaderIcon">
-				<Background Type="CT_RAW" Source="FFC29530" />
+				<Background Type="CT_RAW" Source="FF392A28" />
 			</Color>
 			<Color Name="JobViewErrorTabHeaderIcon">
-				<Background Type="CT_RAW" Source="FFB9A8FF" />
+				<Background Type="CT_RAW" Source="FF4320CC" />
 			</Color>
 			<Color Name="JobViewErrorTabHeaderTopLine">
-				<Background Type="CT_RAW" Source="FFE87D86" />
+				<Background Type="CT_RAW" Source="FFBE222F" />
 			</Color>
 			<Color Name="JobViewWarning">
 				<Background Type="CT_RAW" Source="FF78512A" />
@@ -2785,13 +2785,13 @@
 				<Background Type="CT_RAW" Source="FF1B1048" />
 			</Color>
 			<Color Name="PageSideBarExpanderHeader">
-				<Background Type="CT_RAW" Source="FFA091E6" />
+				<Background Type="CT_RAW" Source="FF271862" />
 			</Color>
 			<Color Name="PageSideBarExpanderHeaderHover">
-				<Background Type="CT_RAW" Source="FFCFC7F2" />
+				<Background Type="CT_RAW" Source="FF271862" />
 			</Color>
 			<Color Name="PageSideBarExpanderHeaderPressed">
-				<Background Type="CT_RAW" Source="FFCFC7F2" />
+				<Background Type="CT_RAW" Source="FF271862" />
 			</Color>
 			<Color Name="PageSideBarExpanderSeparator">
 				<Background Type="CT_RAW" Source="FF2E2070" />
@@ -2974,16 +2974,16 @@
 				<Background Type="CT_RAW" Source="FF4320CC" />
 			</Color>
 			<Color Name="ToolboxSelectedHeadingBegin">
-				<Background Type="CT_RAW" Source="FFD1C7F6" />
+				<Background Type="CT_RAW" Source="FF1B1048" />
 			</Color>
 			<Color Name="ToolboxSelectedHeadingMiddle1">
-				<Background Type="CT_RAW" Source="FFD1C7F6" />
+				<Background Type="CT_RAW" Source="FF1B1048" />
 			</Color>
 			<Color Name="ToolboxSelectedHeadingMiddle2">
-				<Background Type="CT_RAW" Source="FFD1C7F6" />
+				<Background Type="CT_RAW" Source="FF1B1048" />
 			</Color>
 			<Color Name="ToolboxSelectedHeadingEnd">
-				<Background Type="CT_RAW" Source="FFD1C7F6" />
+				<Background Type="CT_RAW" Source="FF1B1048" />
 			</Color>
 			<Color Name="ToolWindowButtonInactiveGlyph">
 				<Background Type="CT_RAW" Source="FFEEEDF5" />
@@ -3155,10 +3155,10 @@
 				<Background Type="CT_RAW" Source="FF271862" />
 			</Color>
 			<Color Name="CommandBarHoverOverSelectedIcon">
-				<Background Type="CT_RAW" Source="FFCFC7F2" />
+				<Background Type="CT_RAW" Source="FF271862" />
 			</Color>
 			<Color Name="CommandBarHoverOverSelectedIconBorder">
-				<Background Type="CT_RAW" Source="FFFFFFFF" />
+				<Background Type="CT_RAW" Source="FF9580E6" />
 			</Color>
 			<Color Name="CommandBarSelected">
 				<Background Type="CT_RAW" Source="FF1B1048" />
@@ -3575,19 +3575,19 @@
 				<Background Type="CT_RAW" Source="FF120A33" />
 			</Color>
 			<Color Name="ToolboxHeadingAccent">
-				<Background Type="CT_RAW" Source="FF9F91F1" />
+				<Background Type="CT_RAW" Source="FF120A33" />
 			</Color>
 			<Color Name="ToolboxHeadingBegin">
-				<Background Type="CT_RAW" Source="FF9F91F1" />
+				<Background Type="CT_RAW" Source="FF120A33" />
 			</Color>
 			<Color Name="ToolboxHeadingEnd">
-				<Background Type="CT_RAW" Source="FF9F91F1" />
+				<Background Type="CT_RAW" Source="FF120A33" />
 			</Color>
 			<Color Name="ToolboxIconHighlight">
-				<Background Type="CT_RAW" Source="FF9F91F1" />
+				<Background Type="CT_RAW" Source="FF120A33" />
 			</Color>
 			<Color Name="ToolboxIconShadow">
-				<Background Type="CT_RAW" Source="FF9F91F1" />
+				<Background Type="CT_RAW" Source="FF120A33" />
 			</Color>
 			<Color Name="ToolWindowBackground">
 				<Background Type="CT_RAW" Source="FF120A33" />
@@ -3707,10 +3707,10 @@
 				<Background Type="CT_RAW" Source="FF271862" />
 			</Color>
 			<Color Name="CommandBarSelectedIconDisabled">
-				<Background Type="CT_RAW" Source="FF8C84B8" />
+				<Background Type="CT_RAW" Source="FF1B1048" />
 			</Color>
 			<Color Name="CommandBarSelectedIconDisabledBorder">
-				<Background Type="CT_RAW" Source="FF8C84B8" />
+				<Background Type="CT_RAW" Source="FF9580E6" />
 			</Color>
 			<Color Name="TitleBarActiveBorder">
 				<Background Type="CT_RAW" Source="FF9580E6" />
@@ -3981,10 +3981,10 @@
 				<Background Type="CT_RAW" Source="FFFFFFFF" />
 			</Color>
 			<Color Name="CommandBarSelectedIconBorder">
-				<Background Type="CT_RAW" Source="FFFFFFFF" />
+				<Background Type="CT_RAW" Source="FF9580E6" />
 			</Color>
 			<Color Name="CommandBarSelectedIcon">
-				<Background Type="CT_RAW" Source="FFD1C7F6" />
+				<Background Type="CT_RAW" Source="FF1B1048" />
 			</Color>
 			<Color Name="QuickCustomizeButton">
 				<Background Type="CT_RAW" Source="FF1B1048" />
@@ -6456,16 +6456,16 @@
 				<Background Type="CT_RAW" Source="FF0D0629" />
 			</Color>
 			<Color Name="PopupSectionHeaderSeparator">
-				<Background Type="CT_RAW" Source="FFA18EED" />
+				<Background Type="CT_RAW" Source="FF2E2070" />
 			</Color>
 			<Color Name="PopupSectionHeaderText">
 				<Background Type="CT_RAW" Source="FFA298C8" />
 			</Color>
 			<Color Name="PopupSectionHeaderGradientBegin">
-				<Background Type="CT_RAW" Source="FF9890F7" />
+				<Background Type="CT_RAW" Source="FF0D0629" />
 			</Color>
 			<Color Name="PopupSectionHeaderGradientEnd">
-				<Background Type="CT_RAW" Source="FF9890F7" />
+				<Background Type="CT_RAW" Source="FF0D0629" />
 			</Color>
 			<Color Name="PopupButtonText">
 				<Background Type="CT_RAW" Source="FFB9A8FF" />
@@ -6625,7 +6625,7 @@
 		</Category>
 		<Category Name="SQL Results - Grid" GUID="{6202ff3e-488e-4ead-92cb-be089659f8d7}">
 			<Color Name="Header Row">
-				<Background Type="CT_RAW" Source="FF9F91F1" />
+				<Background Type="CT_RAW" Source="FF120A33" />
 				<Foreground Type="CT_INVALID" Source="00000000" />
 			</Color>
 			<Color Name="Selected Cell">
@@ -8821,10 +8821,10 @@
 				<Foreground Type="CT_RAW" Source="FFEEEDF5" />
 			</Color>
 			<Color Name="TabHeaderActive">
-				<Background Type="CT_RAW" Source="FFFFFFFF" />
+				<Background Type="CT_RAW" Source="FF4320CC" />
 			</Color>
 			<Color Name="TabHeaderHover">
-				<Background Type="CT_RAW" Source="FFFFFFFF" />
+				<Background Type="CT_RAW" Source="FF5236D6" />
 			</Color>
 			<Color Name="DropDownHover">
 				<Background Type="CT_RAW" Source="FF120A33" />
