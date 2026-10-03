@@ -9,8 +9,6 @@ The theme now follows the That Data Person branding: a deep brand-dark (`#0D0629
 
 Every text colour meets WCAG 2.2 AA (at least 4.5:1) against the editor background, the current-line highlight and the selection, and focus indicators meet 3:1. Syntax colours are separated by hue *and* lightness, and comments, parameters and control-flow keywords are also italic, so they don't rely on colour alone. The colours are generated from the shared palette in [ThatDataPurple](https://github.com/thatdataperson/ThatDataPurple/tree/main/palette); see its contrast report for the numbers.
 
-The screenshot above shows the previous colours and will be replaced.
-
 ## Supported Versions
 - Visual Studio 2019
 - Visual Studio 2022 and 2026 are supported in [ThatDataPurple.VS2022](https://github.com/thatdataperson/ThatDataPurple.VS2022)
